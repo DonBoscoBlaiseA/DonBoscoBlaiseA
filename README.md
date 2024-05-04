@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donboscoblaisea&label=Profile%20views&color=0e75b6&style=flat" alt="donboscoblaisea" /> </p>
 
-<h4>Check out [My Portfolio](https://donboscoblaisea.github.io/Portfolio-1/)</h4>
+<h4>Check out [My Portfolio](#https://donboscoblaisea.github.io/Portfolio-1/)</h4>
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
